@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "opengl-geometry-shaders", "opengl-geometry-shaders.vcxproj", "{825B3EA4-246C-4A26-B160-04FF7C187F8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{825B3EA4-246C-4A26-B160-04FF7C187F8C}.Debug|x64.ActiveCfg = Debug|x64
+		{825B3EA4-246C-4A26-B160-04FF7C187F8C}.Debug|x64.Build.0 = Debug|x64
+		{825B3EA4-246C-4A26-B160-04FF7C187F8C}.Debug|x86.ActiveCfg = Debug|Win32
+		{825B3EA4-246C-4A26-B160-04FF7C187F8C}.Debug|x86.Build.0 = Debug|Win32
+		{825B3EA4-246C-4A26-B160-04FF7C187F8C}.Release|x64.ActiveCfg = Release|x64
+		{825B3EA4-246C-4A26-B160-04FF7C187F8C}.Release|x64.Build.0 = Release|x64
+		{825B3EA4-246C-4A26-B160-04FF7C187F8C}.Release|x86.ActiveCfg = Release|Win32
+		{825B3EA4-246C-4A26-B160-04FF7C187F8C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAA822AD-B1A7-4C81-88D8-CD8D1583CD95}
+	EndGlobalSection
+EndGlobal
